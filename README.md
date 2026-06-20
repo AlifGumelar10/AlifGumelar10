@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Alif Gumelar
+# 👋 Hi, I'm Alif Gumelar Syah Moeslim
 
 **Informatics Student · NLP Researcher · XAI Explorer · Data Scientist Enthusiast**
 
@@ -12,8 +12,8 @@ Universitas Sebelas April (UNSAP) · Sumedang, Indonesia
 
 ## 🧠 About Me
 
-- 🎓 Final-year S1 Informatics student at **UNSAP**
-- 🔬 Thesis: Explainable AI for Indonesian Health Q&A Classification using **KNN + Conformal Prediction**
+- 🎓 Final-year S1 Informatics student at **Universitas Sebelas April Sumedang**
+- 🔬 Skripsi : Explainable AI for Indonesian Health Q&A Classification using **LMPNN + Conformal Prediction**
 - 🌐 Interested in **Natural Language Processing**, **Machine Learning**, and **Explainability**
 - 📊 Currently working with **TF-IDF**, **IndoBERTweet**, and **LMPNN**
 - 📍 Based in **Sumedang, West Java, Indonesia**
@@ -45,14 +45,14 @@ Universitas Sebelas April (UNSAP) · Sumedang, Indonesia
 
 ## 📌 Featured Projects
 
-🔹 **[Indonesian Health Q&A Classifier](link-repo-mu)** — KNN + Conformal Prediction + XAI · 107 classes · 81K samples
+🔹 **[Indonesian Health Q&A Classifier]( (https://www.kaggle.com/code/alifgumelarsm/lmpnn-cp-xai-health-category-bahasa-indonesia) )** — LMPNN + Conformal Prediction + XAI · 107 classes · 81K samples
 
-🔹 **[Infrastructure Complaint Classifier](link-repo-mu)** — IndoBERTweet · Code-mixed Sunda-Indonesia · Instagram dataset
+🔹 **[Infrastructure Complaint Classifier]( (https://www.kaggle.com/code/alifgumelarsm/karakterisasi-ketimpangan-kelas-berbasis-distribus) )** — IndoBERTweet · Code-mixed Sunda-Indonesia · Instagram dataset
 
 ---
 
 <div align="center">
 
-📫 Reach me at: **[LinkedIn](link-linkedin-mu)** · **alifgumelar@email.com**
+📫 Reach me at: **[LinkedIn]( www.linkedin.com/in/alif-gumelar-syah-moeslim-3a84b22a4 )** · **alifgumelar@email.com**
 
 </div>
