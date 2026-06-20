@@ -53,6 +53,6 @@ Universitas Sebelas April (UNSAP) · Sumedang, Indonesia
 
 <div align="center">
 
-📫 Reach me at: **[LinkedIn](www.linkedin.com/in/alif-gumelar-syah-moeslim-3a84b22a4)** · **alifgumelar@email.com**
+📫 Reach me at: **[LinkedIn](www.linkedin.com/in/alif-gumelar-syah-moeslim-3a84b22a4)** · **alifsyammm103@email.com**
 
 </div>
