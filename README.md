@@ -45,14 +45,14 @@ Universitas Sebelas April (UNSAP) · Sumedang, Indonesia
 
 ## 📌 Featured Projects
 
-🔹 **[Indonesian Health Q&A Classifier]( (https://www.kaggle.com/code/alifgumelarsm/lmpnn-cp-xai-health-category-bahasa-indonesia) )** — LMPNN + Conformal Prediction + XAI · 107 classes · 81K samples
+🔹 **[Indonesian Health Q&A Classifier]((https://www.kaggle.com/code/alifgumelarsm/lmpnn-cp-xai-health-category-bahasa-indonesia))** — LMPNN + Conformal Prediction + XAI · 107 classes · 81K samples
 
-🔹 **[Infrastructure Complaint Classifier]( (https://www.kaggle.com/code/alifgumelarsm/karakterisasi-ketimpangan-kelas-berbasis-distribus) )** — IndoBERTweet · Code-mixed Sunda-Indonesia · Instagram dataset
+🔹 **[Infrastructure Complaint Classifier]((https://www.kaggle.com/code/alifgumelarsm/karakterisasi-ketimpangan-kelas-berbasis-distribus))** — IndoBERTweet · Code-mixed Sunda-Indonesia · Instagram dataset
 
 ---
 
 <div align="center">
 
-📫 Reach me at: **[LinkedIn]( www.linkedin.com/in/alif-gumelar-syah-moeslim-3a84b22a4 )** · **alifgumelar@email.com**
+📫 Reach me at: **[LinkedIn](www.linkedin.com/in/alif-gumelar-syah-moeslim-3a84b22a4)** · **alifgumelar@email.com**
 
 </div>
